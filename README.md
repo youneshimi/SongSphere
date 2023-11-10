@@ -1,6 +1,6 @@
 # SongSphere
 
-![SongSphere Logo](url_vers_votre_logo.png)
+<!-- ![SongSphere Logo](url_vers_votre_logo.png)  -->
 
 Bienvenue sur SongSphere, l'application de streaming musical en pleine création ! 🎵🌐
 
@@ -44,4 +44,4 @@ Suivez notre progression en étoilant ce projet ! Restez informé des mises à j
 
 **SongSphere - Où la Musique Rencontre l'Innovation**
 
-![SongSphere Screenshot](url_vers_une_capture_d_ecran.png)
+<!-- ![SongSphere Screenshot](url_vers_une_capture_d_ecran.png) -->
