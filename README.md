@@ -1,6 +1,10 @@
 # SongSphere
 
-<!-- ![SongSphere Logo](url_vers_votre_logo.png)  -->
+<p align="center">
+    <a href="https://laravel.com" target="_blank">
+        <img src="https://i.imgur.com/kAubAVT.png" width="300">
+    </a>
+</p>
 
 Bienvenue sur SongSphere, l'application de streaming musical en pleine création ! 🎵🌐
 
@@ -44,4 +48,11 @@ Suivez notre progression en étoilant ce projet ! Restez informé des mises à j
 
 **SongSphere - Où la Musique Rencontre l'Innovation**
 
-<!-- ![SongSphere Screenshot](url_vers_une_capture_d_ecran.png) -->
+<p align="center">
+    <a href="https://laravel.com" target="_blank">
+        <img src="https://i.imgur.com/zB3BIJC.png" width="200" alt="Laravel">
+        <img src="https://i.imgur.com/TdmjYVE.png" width="200" alt="Image2">
+        <img src="https://i.imgur.com/9LOtIGA.png" width="200" alt="Image3">
+    </a>
+</p>
+

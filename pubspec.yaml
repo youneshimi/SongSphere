@@ -12,9 +12,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  styled_widget: ^0.4.1
   loading_animation_widget: ^1.2.0+4
   image: ^4.1.3
+
 
 dev_dependencies:
   flutter_test:
